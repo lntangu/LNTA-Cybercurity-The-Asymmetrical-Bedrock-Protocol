@@ -60,8 +60,9 @@ Tôi hiểu mọi công nghệ vĩ đại đều từng bắt đầu từ một 
 Q10: Mục tiêu cuối cùng của tôi là gì?
 Tôi muốn tạo ra một môi trường Internet mà ở đó những kẻ có ý đồ xấu phải sợ hãi mỗi khi định tấn công, vì tôi thiết kế để họ càng đánh, họ càng mất mát tài nguyên của chính mình nhiều hơn.
 
-Created by: Lê Nguyễn Trọng An.
-Status: Logic Closure Reached.
+Created by: Lê Nguyễn Trọng An
+
+Status: Logic Closure Reached
 
 Nếu có thắc mắc hay yêu cầu gì, vui lòng liên hệ với địa chỉ sau:
 
